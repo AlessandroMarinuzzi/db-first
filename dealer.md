@@ -11,7 +11,7 @@
 - Weight(Kg)                    SMALLINT        NULL                            - 1725                    
 - Design                        VARCHAR(25)     NULL                            - Coupé 
 - Engine                        VARCHAR(30)     NULL                            - 3,8 l V6
-- Gear                          VARCHAR(15)     NOTNULL                         - 6-speed Automatic
+- Gear                          VARCHAR(20)     NOTNULL                         - 6-speed Automatic
 - Traction                      VARCHAR(20)     NULL                            - 4x4 all-wheel drive
 - Fuel                          VARCHAR(25)     NOTNULL                         - Petrol
 - Consumption                   VARCHAR(30)     NULL                            - 14 l/100km average (18 urban, 11 suburban)
